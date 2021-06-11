@@ -11,8 +11,11 @@ namespace ByteBank4
         static void Main(string[] args)
         {
             ContaCorrente contaNathalia = new ContaCorrente(856, 88909);
+            Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
             ContaCorrente contaThalita = new ContaCorrente(856, 88910);
+            Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
             ContaCorrente contaMarie = new ContaCorrente(856, 88911);
+            Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
 
             Console.WriteLine(contaNathalia.Agencia);
             Console.WriteLine(contaNathalia.Conta);
