@@ -21,6 +21,12 @@ namespace ByteBank
             contaGabriela.saldo += 200;
             Console.WriteLine("Saldo em 12/6/2021: " + contaGabriela.saldo);
 
+            contaGabriela.Sacar(50);
+            Console.WriteLine("Saldo após o saque " + contaGabriela.saldo);
+
+            contaGabriela.Depositar(500);
+            Console.WriteLine("Seu saldo após o depósito é " + contaGabriela.saldo);
+
             Console.ReadLine();
         }
     }
