@@ -1,3 +1,4 @@
+namespace ByteBank {
 public class ContaCorrente
 {
     public string titular;
@@ -35,4 +36,5 @@ public class ContaCorrente
         contaDestino.saldo += valor;
         return true;
     }
+}
 }
