@@ -1,7 +1,8 @@
-namespace ByteBank {
+namespace ByteBank2 {
 public class Cliente {
-    public string titular;
+    public string nome;
     public string cpf;
     public string profissao;
-}
+    public Endereco endereco = new Endereco();
+    }
 }

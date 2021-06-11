@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nathalia\\OneDrive - CrazyTechLabs\\ALURA\\C#\\alura-csharp-parte2\\ByteBank\\ByteBank.csproj",
-      "projectName": "ByteBank",
-      "projectPath": "C:\\Users\\nathalia\\OneDrive - CrazyTechLabs\\ALURA\\C#\\alura-csharp-parte2\\ByteBank\\ByteBank.csproj",
+      "projectUniqueName": "C:\\Users\\nathalia\\OneDrive - CrazyTechLabs\\ALURA\\C#\\alura-csharp-parte2\\ByteBank2\\ByteBank2.csproj",
+      "projectName": "ByteBank2",
+      "projectPath": "C:\\Users\\nathalia\\OneDrive - CrazyTechLabs\\ALURA\\C#\\alura-csharp-parte2\\ByteBank2\\ByteBank2.csproj",
       "packagesPath": "C:\\Users\\nathalia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nathalia\\OneDrive - CrazyTechLabs\\ALURA\\C#\\alura-csharp-parte2\\ByteBank\\obj\\",
+      "outputPath": "C:\\Users\\nathalia\\OneDrive - CrazyTechLabs\\ALURA\\C#\\alura-csharp-parte2\\ByteBank2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nathalia\\AppData\\Roaming\\NuGet\\NuGet.Config"

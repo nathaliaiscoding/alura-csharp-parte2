@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nathalia\\OneDrive - CrazyTechLabs\\ALURA\\C#\\alura-csharp-parte2\\ByteBank2\\ByteBank.csproj": {}
+    "C:\\Users\\nathalia\\OneDrive - CrazyTechLabs\\ALURA\\C#\\alura-csharp-parte2\\ByteBank2\\ByteBank2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nathalia\\OneDrive - CrazyTechLabs\\ALURA\\C#\\alura-csharp-parte2\\ByteBank2\\ByteBank.csproj": {
+    "C:\\Users\\nathalia\\OneDrive - CrazyTechLabs\\ALURA\\C#\\alura-csharp-parte2\\ByteBank2\\ByteBank2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nathalia\\OneDrive - CrazyTechLabs\\ALURA\\C#\\alura-csharp-parte2\\ByteBank2\\ByteBank.csproj",
-        "projectName": "ByteBank",
-        "projectPath": "C:\\Users\\nathalia\\OneDrive - CrazyTechLabs\\ALURA\\C#\\alura-csharp-parte2\\ByteBank2\\ByteBank.csproj",
+        "projectUniqueName": "C:\\Users\\nathalia\\OneDrive - CrazyTechLabs\\ALURA\\C#\\alura-csharp-parte2\\ByteBank2\\ByteBank2.csproj",
+        "projectName": "ByteBank2",
+        "projectPath": "C:\\Users\\nathalia\\OneDrive - CrazyTechLabs\\ALURA\\C#\\alura-csharp-parte2\\ByteBank2\\ByteBank2.csproj",
         "packagesPath": "C:\\Users\\nathalia\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\nathalia\\OneDrive - CrazyTechLabs\\ALURA\\C#\\alura-csharp-parte2\\ByteBank2\\obj\\",
         "projectStyle": "PackageReference",

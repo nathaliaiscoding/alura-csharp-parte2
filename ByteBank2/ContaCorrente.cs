@@ -1,4 +1,4 @@
-namespace ByteBank {
+namespace ByteBank2 {
 public class ContaCorrente
 {
     public Cliente titular;
