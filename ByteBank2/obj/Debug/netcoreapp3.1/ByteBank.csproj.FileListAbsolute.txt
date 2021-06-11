@@ -1,0 +1,13 @@
+C:\Users\nathalia\OneDrive - CrazyTechLabs\ALURA\C#\alura-csharp-parte2\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.exe
+C:\Users\nathalia\OneDrive - CrazyTechLabs\ALURA\C#\alura-csharp-parte2\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.deps.json
+C:\Users\nathalia\OneDrive - CrazyTechLabs\ALURA\C#\alura-csharp-parte2\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.runtimeconfig.json
+C:\Users\nathalia\OneDrive - CrazyTechLabs\ALURA\C#\alura-csharp-parte2\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.runtimeconfig.dev.json
+C:\Users\nathalia\OneDrive - CrazyTechLabs\ALURA\C#\alura-csharp-parte2\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.dll
+C:\Users\nathalia\OneDrive - CrazyTechLabs\ALURA\C#\alura-csharp-parte2\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.pdb
+C:\Users\nathalia\OneDrive - CrazyTechLabs\ALURA\C#\alura-csharp-parte2\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.csprojAssemblyReference.cache
+C:\Users\nathalia\OneDrive - CrazyTechLabs\ALURA\C#\alura-csharp-parte2\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.AssemblyInfoInputs.cache
+C:\Users\nathalia\OneDrive - CrazyTechLabs\ALURA\C#\alura-csharp-parte2\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.AssemblyInfo.cs
+C:\Users\nathalia\OneDrive - CrazyTechLabs\ALURA\C#\alura-csharp-parte2\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\nathalia\OneDrive - CrazyTechLabs\ALURA\C#\alura-csharp-parte2\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.dll
+C:\Users\nathalia\OneDrive - CrazyTechLabs\ALURA\C#\alura-csharp-parte2\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.pdb
+C:\Users\nathalia\OneDrive - CrazyTechLabs\ALURA\C#\alura-csharp-parte2\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.genruntimeconfig.cache
