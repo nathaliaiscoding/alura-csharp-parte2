@@ -2,8 +2,9 @@ namespace ByteBank3 {
 public class ContaCorrente
 {
     public Cliente Titular { get; set; }
-    public int agencia;
-    public int conta;
+
+    public int Agencia { get; set; }
+    public int Conta { get; set; }
     private double _saldo = 100; // se não for atribuído nenhum valor, ele atribui 0 (zero)
 
     public double Saldo {
