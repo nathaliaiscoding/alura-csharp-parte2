@@ -8,8 +8,8 @@ namespace ByteBank3
         {
             ContaCorrente conta = new ContaCorrente();
 
-            conta.DefinirSaldo(-10);
-            Console.WriteLine(conta.ObterSaldo());
+            conta.Saldo = -10;
+            Console.WriteLine(conta.Saldo);
         }
     }
 }
