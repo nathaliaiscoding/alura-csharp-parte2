@@ -14,6 +14,7 @@ public class ContaCorrente
              if(value <= 0) {
                  return;
              }
+             _agencia = value;
          }
           }
     public int Conta { get; set; }
