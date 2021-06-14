@@ -6,6 +6,7 @@ namespace ByteBank2
     {
         static void Main(string[] args)
         {
+
             Cliente nathalia = new Cliente();
             nathalia.nome = "Nathalia";
             nathalia.cpf = "123.787.856-09";
